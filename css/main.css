@@ -140,7 +140,12 @@ main {
 	color: #555;
 	transition: 0.26s;
 }
-
+.rotate{
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+}
 .article {
 	padding: 20px;
 }
