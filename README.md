@@ -1,1 +1,3 @@
-# HW-1---Git-and-GitHub-Group-Assignment
+# Siddhant Dimri
+# Mafikiri Elisha
+# Ahmed Benbrahim
